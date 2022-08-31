@@ -1,12 +1,14 @@
 ![header](https://user-images.githubusercontent.com/70303801/187113372-438a3e0b-1e87-4caf-8baf-85c2ab46c8e4.png)
 
 <a href="https://github.com/Fiza98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fiza98&show_icons=true&theme=merko&count_private=true" alt="Afriza's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiza98&theme=merko&layout=compact" alt="Fiza98's github top languages" />
-  
-  <div align="left">
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fiza98&show_icons=true&theme=merko&count_private=true" alt="Afriza's github stats" />
+ <div align="left">
+ 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fiza98&hide_border=true&theme=dracula)
+  
+ 
+
+
 
 [![Github](https://img.shields.io/github/followers/Fiza98?label=Follow&style=social)](https://github.com/Fiza98)
 ![Profile Count](https://komarev.com/ghpvc/?username=Fiza98) 
