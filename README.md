@@ -31,7 +31,7 @@
 
 - ⚡ My Interest & Activities : Programming | Books | Movies | Music | Art
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fiza98/Python-Projects](https://github.com/Fiza98/Python-Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/Fiza98/Python-Projects](https://github.com/Fiza98/Projects-Python)
 
 
 <h3 align="left">Languages and Tools:</h3>
