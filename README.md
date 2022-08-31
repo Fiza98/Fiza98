@@ -1,8 +1,22 @@
 ![header](https://user-images.githubusercontent.com/70303801/187113372-438a3e0b-1e87-4caf-8baf-85c2ab46c8e4.png)
 
+[![Github](https://img.shields.io/github/followers/Fiza98?label=Follow&style=social)](https://github.com/Fiza98)
+![Profile Count](https://komarev.com/ghpvc/?username=Fiza98) 
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.6k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/niknurafriza/)
+
+<a href="https://github.com/Fiza98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fiza98&show_icons=true&theme=merko&count_private=true" alt="Afriza's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiza98&theme=merko&layout=compact" alt="Fiza98's github top languages" />
+  
+  <div align="left">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fiza98&hide_border=true&theme=dracula)
+
 </h2><h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hi 👋, I'm Afriza</h1> 
 <h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A passionate Statistic Graduate in Data Science and a life longer learner! I love to network, join new communities and add value ✨</h3>
 
+
+    
 
 <div>
 <details>
