@@ -10,10 +10,10 @@
 
 
 
-[![Github](https://img.shields.io/github/followers/Fiza98?label=Follow&style=social)](https://github.com/Fiza98)
+
 ![Profile Count](https://komarev.com/ghpvc/?username=Fiza98) 
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.6k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/niknurafriza/)
-[![Linkedin: niknurafriza](https://img.shields.io/badge/-niknurafriza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niknurafriza/)](https://www.linkedin.com/in/niknurafriza/)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/niknurafriza/)
+
 
 </h2><h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hi 👋, I'm Afriza</h1> 
 <h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A passionate Statistic Graduate in Data Science and a life longer learner! I love to network, join new communities and add value ✨</h3>
@@ -27,7 +27,7 @@
   
 - 👯 I’m exploring on Machine Learning Project
 
-- 🌱 I’m currently learning **SQL, Python, and R.** 🤓
+- 🌱 I’m currently learning **SQL, Python, Power BI and Tableau.** 🤓
 
 - ⚡ My Interest & Activities : Programming | Books | Movies | Music | Art
 
