@@ -12,7 +12,7 @@
 
 
 ![Profile Count](https://komarev.com/ghpvc/?username=Fiza98) 
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/niknurafriza/)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.9k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/niknurafriza/)
 
 
 </h2><h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Hi 👋, I'm Afriza</h1> 
