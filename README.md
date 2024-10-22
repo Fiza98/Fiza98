@@ -7,12 +7,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fiza98&hide_border=true&theme=neon)
   
- 
-
-
-
-
-![Profile Count](https://komarev.com/ghpvc/?username=Fiza98) 
+ ![Profile Count](https://komarev.com/ghpvc/?username=Fiza98) 
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-3.1k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/niknurafriza/)
 
 
@@ -40,5 +35,7 @@
 
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Fiza98&repo=github-readme-stats&theme=neon)
   
  
