@@ -1,5 +1,11 @@
 ![header](https://user-images.githubusercontent.com/70303801/187113372-438a3e0b-1e87-4caf-8baf-85c2ab46c8e4.png)
 
+
+<a href="https://github.com/Fiza98">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fiza98&show_icons=github&theme=radical&count_private=true" alt="Afriza's github stats" />
+ <div align="left">
+
+  
 <a href="https://github.com/Fiza98">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fiza98&rank_icon=github&theme=radical&count_private=true" alt="Afriza's github stats" />
  <div align="left">
