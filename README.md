@@ -8,7 +8,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fiza98&rank_icon=github&theme=radical&count_private=true" alt="Afriza's github stats" />
  <div align="left">
   
- ![Afriza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiza98\&rank_icon=github&theme=radical)
 
  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fiza98&hide_border=true&theme=neon)
