@@ -3,6 +3,9 @@
 <a href="https://github.com/Fiza98">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fiza98&show_icons=true&theme=radical&count_private=true" alt="Afriza's github stats" />
  <div align="left">
+
+ ![Afriza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiza98\&rank_icon=github)
+
  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fiza98&hide_border=true&theme=neon)
   
